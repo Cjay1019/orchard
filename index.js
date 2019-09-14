@@ -94,3 +94,9 @@ do {
   play();
 } while (counters.gamesPlayed < 50000);
 game.printData();
+
+// Example of results:
+// Games Played: 50000
+// Wins: 28395
+// Losses: 21605
+// Win percentage: 56.79%
